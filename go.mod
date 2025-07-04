@@ -1,3 +1,3 @@
-module huaweicloud.com/go-runtime
+module github.com/realli07kkk/fg-go-runtime
 
-go 1.14
+go 1.21

@@ -1,7 +1,7 @@
 package runtime
 
 import (
-	"huaweicloud.com/go-runtime/pkg/runtime/fnhandler"
+	"github.com/realli07kkk/fg-go-runtime/pkg/runtime/fnhandler"
 	"log"
 	"net/http"
 	"net/rpc"
